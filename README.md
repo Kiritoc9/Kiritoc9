@@ -10,9 +10,9 @@ I have been working in the Designer and Audio Visual area for about 10 Years, in
 
 # 🚀 Expertise
 
-Meu foco principal é o desenvolvimento de front-end, onde estou me  especializando na criação de aplicativos da Web responsivos e Intuitivos. Tenho conhecimento de HTML, CSS, JavaScript e Typescript, Figma, XD, hotoshop, Ilustrator, Adobe Premiere, Corel Draw, After Effecters, Dreamweaver.
+My main focus is frontend development where I am specializing in building responsive and Intuitive web apps. I have knowledge of HTML, CSS, JavaScript and Typescript, Figma, XD, hotoshop, Illustrator, Adobe Premiere, Corel Draw, After Effects, Dreamweaver.
 
-Adoro trabalhar no front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais. Estudante de DEV com Python, Java, Pentest e React.
+I love working on the front end because it allows me to combine my creativity with problem solving skills to deliver exceptional user experiences. Student of DEV with Python, Java, Pentest and React.
 
 
 # 💻 Tech Stack
